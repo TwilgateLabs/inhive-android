@@ -34,7 +34,6 @@ shasum -a 256 inhive-android-x.y.z-universal.apk
 
 ## 🔗 Связанные репозитории
 
-- [twilgate/inhive-app](https://github.com/twilgate/inhive-app) — Flutter-приложение (private; Android-код в `android/`)
 - [TwilgateLabs/inhive-core](https://github.com/TwilgateLabs/inhive-core) — Go-ядро (sing-box 1.13 fork; Android AAR сборка через `make android`)
 - [twilgate/inhive-web](https://github.com/twilgate/inhive-web) — Web (private; `inhive.ru`)
 
